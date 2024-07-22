@@ -14,4 +14,4 @@ Key Features:
 
 The performance of the emotion classification model is demonstrated in the following video:
 
-[Demo video](emotion_test_result.avi)
+[Demo video]([emotion_test_result.avi](https://github.com/AyaanZ30/Emotion_classif/blob/main/emotion_test_result.avi))
